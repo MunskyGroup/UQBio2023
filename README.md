@@ -34,7 +34,7 @@ ___
 | May 22-26 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files | [![Open In Colab]() |  
 | May 22-26  | Online | Intro to Python: Google Colab environment setup and navigation   | [![Open In Colab]() |  
 |  May 22-26 | Online | Intro to Python: Matplotlib visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
-| May 22-26 | Online | Intro to Python: NumPy and Linear Algebra Review | [![Open In Colab]() |  
+| May 22-26 | Online | Intro to Python: NumPy and Linear Algebra Review | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
 
 ___
 
