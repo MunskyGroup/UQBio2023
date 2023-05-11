@@ -16,7 +16,7 @@
 Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera
 William Raymond, Zachary R. Fox, Lisa Weber, 
 Kaan Ocal, and Huy D. Vo.
-
+----------------------------------------------------------
 Contact Info: uqbio.summer.school@rgmail.com
 </pre>
 </div>
