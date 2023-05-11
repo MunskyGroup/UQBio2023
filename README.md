@@ -1,8 +1,30 @@
 
 
-![<center><h1> Repository for the 3rd Annual Undergraduate Quantitative Biology (UQ-Bio) Summer School. </h1></center>](./notebook_images/uqiobio2023_logo_color_small.png?)
 
-<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary R. Fox, Lisa Weber, Kaan Ocal, and Huy D. Vo.
+<html>
+    <summary></summary>
+    <p float="left">
+        <img align="left" src="./notebook_images/uqiobio2023_logo_color_small.png"  width="340" height="300"/>
+         <div> <p></p> </div>
+         <div style="font-size: 200px; width: 200px;"> 
+              <h1>
+               <left> Welcome to the 3rd Annual UQ-Bio Summer School! </left>
+              </h1>
+              <p><left>============================================================================</left> </p>
+              <p>
+              Below is the Github repository holding all the links to Colab Notebooks and files needed during the course.
+              </p>
+           <h2> Authors </h2>
+              <pre>
+Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera
+William Raymond, Zachary R. Fox, Lisa Weber, Kaan Ocal, and Huy D. Vo.
+Contact Info: uqbio.summer.school@rgmail.com
+</pre>
+         </div>
+    </p>
+
+</html>
+
 ___
 
 ## Modules
