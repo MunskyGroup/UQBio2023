@@ -17,7 +17,7 @@ Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera
 William Raymond, Zachary R. Fox, Lisa Weber, 
 Kaan Ocal, and Huy D. Vo.
 </pre>
-<p>Email: uqbio.summer.school@gmail.com • [Schedule](https://q-bio.org/wp/uq-bio-schedule-2023/) • [Website](https://q-bio.org/wp/)  </p>
+<p><a href = "mailto: uqbio.summer.school@gmail.com"> Email: uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2023/">Schedule</a>  • <a href="https://q-bio.org/wp/">Website</a> </p>
 </div>
 </p>
 </html>
