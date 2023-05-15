@@ -17,7 +17,7 @@ Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera
 William Raymond, Zachary R. Fox, Lisa Weber, 
 Kaan Ocal, and Huy D. Vo.
 </pre>
-<p><a href = "mailto: uqbio.summer.school@gmail.com"> Email: uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2023/">Schedule</a>  • <a href="https://q-bio.org/wp/">Website</a> </p>
+<p><a href = "mailto: uqbio.summer.school@gmail.com"> uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2023/">2023 Undergraduate Summer School Schedule</a>  • <a href="https://q-bio.org/wp/">UQ-Bio Website</a> •  <a href="https://www.engr.colostate.edu/~munsky/">Munsky Group Website</a> </p>
 </div>
 </p>
 </html>
