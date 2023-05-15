@@ -25,7 +25,7 @@ Kaan Ocal, and Huy D. Vo.
 ___
 
 ## Modules
-___
+
 <left><h3> Module 0 (Online) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
