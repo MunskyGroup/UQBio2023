@@ -35,6 +35,7 @@ ___
 | May 22-26  | Online | Intro to Python: Google Colab environment setup and navigation   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9CF-LZE_hvlz10xEyRzS3kZhqS8iqFi?usp=sharing) |  
 |  May 22-26 | Online | Intro to Python: Matplotlib visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
 | May 22-26 | Online | Intro to Python: NumPy and Linear Algebra Review | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
+| May 22-26 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
 
 ___
 
