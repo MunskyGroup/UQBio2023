@@ -29,15 +29,14 @@ ___
 <left><h3> Module 0 (Online) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| May 22-26 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lH2iZGv3gjPaKrj3rkbGy0BOGJ6_2USC?usp=sharing) |  
-| May 22-26 | Online | Intro to Python: Loops, Ranges, Functions, Lambdas, List Comprehension|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E6C7jn0iTLBSGkdM0SlkuAXWmp-hhj0X?usp=sharing)  |  
-| May 22-26 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11H6aMgq4hFSvneZSLBPn9WI6fqrrMQNC?usp=sharing) |  
-| May 22-26  | Online | Intro to Python: Google Colab environment setup and navigation   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9CF-LZE_hvlz10xEyRzS3kZhqS8iqFi?usp=sharing) |  
-|  May 22-26 | Online | Intro to Python: Matplotlib visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
-| May 22-26 | Online | Intro to Python: NumPy and Linear Algebra Review | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
-| May 22-26 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
-| May 22-26 | Online | Basic Image manipulation in Python| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
-
+| May 22-26 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers (Zach Fox) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lH2iZGv3gjPaKrj3rkbGy0BOGJ6_2USC?usp=sharing) |  
+| May 22-26 | Online | Intro to Python: Loops, Ranges, Functions, Lambdas, List Comprehension (Luis Aguilera)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E6C7jn0iTLBSGkdM0SlkuAXWmp-hhj0X?usp=sharing)  |  
+| May 22-26 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files (Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11H6aMgq4hFSvneZSLBPn9WI6fqrrMQNC?usp=sharing) |  
+| May 22-26  | Online | Intro to Python: Google Colab environment setup and navigation (Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9CF-LZE_hvlz10xEyRzS3kZhqS8iqFi?usp=sharing) |  
+|  May 22-26 | Online | Intro to Python: Matplotlib visualization (Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
+| May 22-26 | Online | Intro to Python: NumPy and Linear Algebra Review (Michael May)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
+| May 22-26 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python (Brian Munsky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
+| May 24 | Online | Basic Image manipulation in Python| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
 ___
 
 ## Licensing
