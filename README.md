@@ -29,14 +29,14 @@ ___
 <left><h3> Module 0 (Online) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| May 22 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers (Instructor: Joshua Cook / Zach Fox) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lH2iZGv3gjPaKrj3rkbGy0BOGJ6_2USC?usp=sharing) |  
+| May 22 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers (Instructor: Zach Fox) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lH2iZGv3gjPaKrj3rkbGy0BOGJ6_2USC?usp=sharing) |  
 | May 22 | Online | Intro to Python: Loops, Ranges, Functions, Lambdas, List Comprehension (Instructor: Luis Aguilera)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E6C7jn0iTLBSGkdM0SlkuAXWmp-hhj0X?usp=sharing)  |  
 | May 22 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11H6aMgq4hFSvneZSLBPn9WI6fqrrMQNC?usp=sharing) |  
 | May 22  | Online | Intro to Python: Google Colab environment setup and navigation (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9CF-LZE_hvlz10xEyRzS3kZhqS8iqFi?usp=sharing) |  
 |  May 22 | Online | Intro to Python: Matplotlib visualization (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
 | May 22 | Online | Intro to Python: NumPy and Linear Algebra Review (Instructor: Michael May)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
 | May 22 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python (Instructor: Brian Munsky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
-| May 24 | Online | Python Preliminary Image Loading and Processing (Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
+| May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
 ___
 
 <left><h3> Module 1 : Optical Microscopy Experiments and Image Processing . </h3></left>
