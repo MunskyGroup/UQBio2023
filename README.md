@@ -35,7 +35,7 @@ ___
 | May 22  | Online | Intro to Python: Google Colab environment setup and navigation (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9CF-LZE_hvlz10xEyRzS3kZhqS8iqFi?usp=sharing) |  
 |  May 22 | Online | Intro to Python: Matplotlib visualization (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
 | May 22 | Online | Intro to Python: NumPy and Linear Algebra Review (Instructor: Michael May)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
-| May 22 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python (Instructor: Brian Munsky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
+| May 22 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python (Instructor: Brian Munsky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i1eM5zp91wvfc-J6iqcEwejBwdaEsNqq?usp=sharing) | 
 ___
 
 <left><h3> Module 1 : Optical Microscopy Experiments and Image Processing . </h3></left>
