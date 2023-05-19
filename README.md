@@ -36,12 +36,12 @@ ___
 |  May 22 | Online | Intro to Python: Matplotlib visualization (Instructor: Will Raymond) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uoexpPR-PoQMzLcgEmxv9feb7SLTDCSu?usp=sharing)    
 | May 22 | Online | Intro to Python: NumPy and Linear Algebra Review (Instructor: Michael May)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ITCQX6XWcnxGysxLx1ROdMhwGwoLbLtZ?usp=sharing) |  
 | May 22 | Online | Intro to Python: Using OpenAI's GPT3.5 in Python (Instructor: Brian Munsky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YOd3pI7sQdYALjUV2hN9dbYZO-rgIqm_?usp=sharing) |  
-| May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
 ___
 
 <left><h3> Module 1 : Optical Microscopy Experiments and Image Processing . </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
+| May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
 | May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
 | June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padau (Champalimaud Center for the Unknown, Lisbon, Portugal) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
 ___
