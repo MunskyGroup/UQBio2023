@@ -42,29 +42,29 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
-| May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
-| June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padau (Champalimaud Center for the Unknown, Lisbon, Portugal) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
+| May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | Coming Soon! | 
+| June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padau (Champalimaud Center for the Unknown, Lisbon, Portugal) | Coming Soon! | 
 ___
 
 <left><h3> Module 2 :  Multivariable Statistics and Machine Learning for Biological Data. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 2 | in person | Tutorial 2.1 — Basic statistics, Prof. Ania Baetica (Drexel University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
-| June 5 | in person | Tutorial 2.2 – Basics of Regression, Classification and Machine Learning, Dr. Zachary Fox (Oak Ridge National Laboratory) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
+| June 2 | in person | Tutorial 2.1 — Basic statistics, Prof. Ania Baetica (Drexel University) | Coming Soon! | 
+| June 5 | in person | Tutorial 2.2 – Basics of Regression, Classification and Machine Learning, Dr. Zachary Fox (Oak Ridge National Laboratory) | Coming Soon! | 
 ___
 
 <left><h3> Module 3 : Stochastic Simulations of Biological Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 6 | in person | Tutorial 3.1 – Formulating and solving models for gene regulation dynamics, Joshua Cook (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
-| June 7 | in person | Tutorial 3.2 – Sampling from Probability Distributions and Generating Stochastic Simulations, Prof. Keisha Cook (Clemson University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
-| June 8 | in person | Tutorial 3.3 –  Chemical Master Equation, Michael May (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
+| June 6 | in person | Tutorial 3.1 – Formulating and solving models for gene regulation dynamics, Joshua Cook (Colorado State University) | Coming Soon! | 
+| June 7 | in person | Tutorial 3.2 – Sampling from Probability Distributions and Generating Stochastic Simulations, Prof. Keisha Cook (Clemson University) | Coming Soon! | 
+| June 8 | in person | Tutorial 3.3 –  Chemical Master Equation, Michael May (Colorado State University) | Coming Soon! | 
 ___
 
 <left><h3> Module 4 : Master Equation Analyses of Biological Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 9 | in person | Tutorial 4.1 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) | 
+| June 9 | in person | Tutorial 4.1 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | Coming Soon! | 
 ___
 
 ## Licensing
