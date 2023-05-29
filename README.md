@@ -14,7 +14,7 @@
            <h2> Authors </h2>
               <pre>
 Dr. Brian Munsky, Michael May, Dr. Luis Aguilera, William Raymond, Dr. Zachary R. Fox, 
-Dr. Keisha Cook, Kaan Ocal, and Dr. Carolina Padau.
+Dr. Keisha Cook, Kaan Ocal, Dr. Ania Baetica, and Dr. Carolina Padau.
 </pre>
 <p><a href = "mailto: uqbio.summer.school@gmail.com"> uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2023/">2023 Undergraduate Summer School Schedule</a>  • <a href="https://q-bio.org/wp/">UQ-Bio</a> •  <a href="https://www.engr.colostate.edu/~munsky/">Munsky Group</a> </p>
 </div>
