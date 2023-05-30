@@ -67,6 +67,22 @@ ___
 | June 9 | in person | Tutorial 4.1 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | Coming Soon! | 
 ___
 
+
+
+
+## UQ-Bio23 Drug Discovery Challenge
+
+<img src= https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQ_Bio_Challenge.jpg alt="drawing" width="1200"/>
+
+
+[Drug Discovery Challenge Presentation](https://github.com/MunskyGroup/raw/main/UQBio2023/notebook_images/UQ_Bio_Challenge.pdf)
+
+| Date (MST) | Location | Description | Link |
+| --------| -------- | -------- | -------- |
+| May 31 | N135 | Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
+
+___
+
 ## Licensing
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
