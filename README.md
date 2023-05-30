@@ -72,7 +72,7 @@ ___
 
 ## UQ-Bio23 Drug Discovery Challenge
 
-<img src= https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ_Bio_Challenge.jpg alt="drawing" width="1200"/>
+<img src= https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ_Bio_Challenge_0.jpg alt="drawing" width="1200"/>
 
 
 [Drug Discovery Challenge Presentation](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ_Bio_Challenge.pdf)
