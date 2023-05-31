@@ -42,7 +42,7 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
-| May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | Coming Soon! | 
+| May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12aEJK-gYhc4AXXNtZQaGZJOq2fySeQj1?usp=sharing) | 
 | June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padau (Champalimaud Center for the Unknown, Lisbon, Portugal) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acpadua/uq-bio23/blob/main/I_Tutorial_1_2_img_tracking_Carolina_Padua.ipynb) | 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| May 31 | N135 | Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
+| May 31 | N135 | Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17JM5q49e01Z8RK1yrIojpPlHcuHp7L7K?usp=sharing) | 
 
 ___
 
