@@ -49,7 +49,7 @@ ___
 <left><h3> Module 2 :  Multivariable Statistics and Machine Learning for Biological Data. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 2 | in person | Tutorial 2.1 — Basic statistics, Prof. Ania Baetica (Drexel University) | Coming Soon! | 
+| June 2 | in person | Tutorial 2.1 — Basic statistics, Prof. Ania Baetica (Drexel University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JM6xQoJXoYvU2dP4BOjxRmqywI6Ko4By?usp=sharing) |
 | June 5 | in person | Tutorial 2.2 – Basics of Regression, Classification and Machine Learning, Dr. Zachary Fox (Oak Ridge National Laboratory) | Coming Soon! | 
 ___
 
