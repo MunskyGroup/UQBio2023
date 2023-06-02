@@ -78,7 +78,6 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | May 31 | NT135 | Stage 1: Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17JM5q49e01Z8RK1yrIojpPlHcuHp7L7K?usp=sharing) | 
-
 | June 2 | NT135 | Stage 2: Statistical Analysis (Instructor: Ania Baetica and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4pMWf0dxSqQJu5WndVnUu0mL7mtxm5C?usp=sharing) | 
 ___
 
