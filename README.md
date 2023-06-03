@@ -84,7 +84,7 @@ ___
 
 ## Breaking news
 
-[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)
+[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.pdf)
 
 
 ___
