@@ -79,6 +79,14 @@ ___
 | --------| -------- | -------- | -------- |
 | May 31 | NT135 | Stage 1: Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17JM5q49e01Z8RK1yrIojpPlHcuHp7L7K?usp=sharing) | 
 | June 2 | NT135 | Stage 2: Statistical Analysis (Instructor: Ania Baetica and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4pMWf0dxSqQJu5WndVnUu0mL7mtxm5C?usp=sharing) | 
+
+___
+
+## Breaking news
+
+[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)
+
+
 ___
 
 ## Licensing
