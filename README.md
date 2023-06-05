@@ -56,7 +56,7 @@ ___
 <left><h3> Module 3 : Stochastic Simulations of Biological Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 6 | in person | Tutorial 3.1 – Formulating and solving models for gene regulation dynamics, Joshua Cook (Colorado State University) | Coming Soon! | 
+| June 6 | in person | Tutorial 3.1 – Formulating and solving models for gene regulation dynamics, Joshua Cook (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kwsP6bz07ozaVT0YxKW110CiJAjCtSWe?usp=sharing) | 
 | June 7 | in person | Tutorial 3.2 – Sampling from Probability Distributions and Generating Stochastic Simulations, Prof. Keisha Cook (Clemson University) | Coming Soon! | 
 | June 8 | in person | Tutorial 3.3 –  Chemical Master Equation, Michael May (Colorado State University) | Coming Soon! | 
 ___
