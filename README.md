@@ -43,7 +43,7 @@ ___
 | --------| -------- | -------- | -------- |
 | May 24 | Online | Python Preliminary Image Loading and Processing (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jm2V58QRtjvJ7kx4WQfUGoGkBBKF7JVB?usp=sharing) | 
 | May 31 | in person | Tutorial 1.1 —  Basics of Image Processing, Dr. Luis Aguilera (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12aEJK-gYhc4AXXNtZQaGZJOq2fySeQj1?usp=sharing) | 
-| June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padua (Champalimaud Center for the Unknown, Lisbon, Portugal) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZBwDbx2lJieukYlboM1Q5Mh9geZQRDa#scrollTo=u7kZ509Q6hb_) | 
+| June 1 | In person | Tutorial 1.2 — Image Segmentation and Tracking, Dr. Carolina Padua (Champalimaud Center for the Unknown, Lisbon, Portugal) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZBwDbx2lJieukYlboM1Q5Mh9geZQRDa?usp=sharing) | 
 ___
 
 <left><h3> Module 2 :  Multivariable Statistics and Machine Learning for Biological Data. </h3></left>
