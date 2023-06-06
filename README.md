@@ -15,7 +15,7 @@
                 <pre>
 Brian Munsky, Luis Aguilera, William Raymond,  
 Michael May, Zachary Fox, Eric Ron, Keisha Cook, 
-Kaan Ocal, Ania Baetica, and Carolina Padua.
+Kaan Ocal, Ania Baetica, and Ana Carolina Padua.
                 </pre>
 <p><a href = "mailto: uqbio.summer.school@gmail.com"> uqbio.summer.school@gmail.com </a> • <a href="https://q-bio.org/wp/uq-bio-schedule-2023/">2023 Undergraduate Summer School Schedule</a>  • <a href="https://q-bio.org/wp/">UQ-Bio</a> •  <a href="https://www.engr.colostate.edu/~munsky/">Munsky Group</a> </p>
 </div>
