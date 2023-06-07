@@ -84,9 +84,11 @@ ___
 
 ## Breaking news
 
-[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ-Bio_newsletter_1.pdf)
+[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_1.png)   ](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ-Bio_newsletter_1.pdf)
 [Link to the complete story](https://docs.google.com/document/d/1F_C-N5IHQsl1_9x6bO6wEiXv_xAZHcGnUkoAX6Bo-xA/edit?usp=sharing)
 
+[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Breaking_news_2.png)   ](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/UQ-Bio_newsletter_2.pdf)
+[Link to the complete story](https://docs.google.com/document/d/13DYqQAcu4zhhU5iKM8bY-FYKb0nKhE9_yaGpxiRNBoc/edit?usp=sharing)
 
 ___
 
