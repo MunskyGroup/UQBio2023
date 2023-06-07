@@ -13,7 +13,7 @@
               </p>
            <h2> Authors </h2>
                 <pre>
-Brian Munsky, Luis Aguilera, William Raymond,  
+Brian Munsky, Luis Aguilera, William Raymond, Joshua Cook,
 Michael May, Zachary Fox, Eric Ron, Keisha Cook, 
 Kaan Ocal, Ania Baetica, and Ana Carolina Padua.
                 </pre>
