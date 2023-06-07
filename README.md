@@ -64,7 +64,7 @@ ___
 <left><h3> Module 4 : Master Equation Analyses of Biological Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 8 | in person | Tutorial 4.1 –  Chemical Master Equation, Michael May (Colorado State University) | Coming Soon! | 
+| June 8 | in person | Tutorial 4.1 –  Chemical Master Equation, Michael May (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jT9T6t-CvuHGkWHXDTGLWnigV3RM2mCA?usp=sharing) |
 | June 9 | in person | Tutorial 4.2 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-bjn_Ud6wRAH0yuJl2F6M7Bz2znalbhu?usp=sharing) |
 ___
 
