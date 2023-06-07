@@ -57,16 +57,15 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | June 6 | in person | Tutorial 3.1 – Formulating and solving models for gene regulation dynamics, Joshua Cook (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kwsP6bz07ozaVT0YxKW110CiJAjCtSWe?usp=sharing) | 
-| June 7 | in person | Tutorial 3.2 – Sampling from Probability Distributions and Generating Stochastic Simulations, Prof. Keisha Cook (Clemson University) | Coming Soon! | 
-| June 8 | in person | Tutorial 3.3 –  Chemical Master Equation, Michael May (Colorado State University) | Coming Soon! | 
+| June 7 | in person | Tutorial 3.2 – Sampling from Probability Distributions and Generating Stochastic Simulations, Prof. Keisha Cook (Clemson University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1za9WBRw2ZZ0f1UeWM7OZtIIBGK0CZYYG?usp=sharing) |
 ___
 
 <left><h3> Module 4 : Master Equation Analyses of Biological Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 9 | in person | Tutorial 4.1 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | Coming Soon! | 
+| June 8 | in person | Tutorial 4.1 –  Chemical Master Equation, Michael May (Colorado State University) | Coming Soon! | 
+| June 9 | in person | Tutorial 4.2 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-bjn_Ud6wRAH0yuJl2F6M7Bz2znalbhu?usp=sharing) |
 ___
-
 
 ## UQ-Bio23 Drug Discovery Challenge
 
@@ -79,7 +78,8 @@ ___
 | --------| -------- | -------- | -------- |
 | May 31 | NT135 | Stage 1: Experimental Quantification (Instructor: Luis Aguilera)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17JM5q49e01Z8RK1yrIojpPlHcuHp7L7K?usp=sharing) | 
 | June 2 | NT135 | Stage 2: Statistical Analysis (Instructor: Ania Baetica and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4pMWf0dxSqQJu5WndVnUu0mL7mtxm5C?usp=sharing) | 
-
+| June 5 | NT135 | Stage 3: Regression Analysis (Instructor: Zach Fox and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kkBvIfMvla0yvtmipWq5gH0pWnsyNPIV?usp=sharing) | 
+| June 7 | NT135 | Stage 4: Models and Stochastic Simulation (Instructor: Michael May, Joshua Cook, and Keisha Cook )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10LgHcm8HToZGRHF7WESIpD5JKYzJNxk4?usp=sharing) | 
 ___
 
 ## Breaking news
