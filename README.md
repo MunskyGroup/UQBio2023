@@ -65,7 +65,7 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | June 8 | in person | Tutorial 4.1 –  Chemical Master Equation, Michael May (Colorado State University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aFtwitM9iPyECqJxH8ow8_WAMABoQ7bc?usp=sharing) |
-| June 9 | in person | Tutorial 4.2 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | [![Open In Colab](https://colab.research.google.com/drive/1vjBj7tAGHpkeRnTX03XZNVhCdAvmvGnB?usp=sharing) |
+| June 9 | in person | Tutorial 4.2 – Markov Chain Monte Carlo and Model Inference, Kaan Ocal (Edinburgh University) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vjBj7tAGHpkeRnTX03XZNVhCdAvmvGnB?usp=sharing) |
 ___
 
 ## UQ-Bio23 Drug Discovery Challenge
