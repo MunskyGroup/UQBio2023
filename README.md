@@ -93,6 +93,11 @@ ___
 
 ___
 
+## Closing time :notes:
+[![Newsletter](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/Thank_you.png) ](https://github.com/MunskyGroup/UQBio2023/raw/main/notebook_images/UQBio_Challenge/read_UQ-Bio_newsletter_Final.pdf)
+[Link to the complete story](https://docs.google.com/document/d/1jlAzvEyrCpxt6eripDyUufrX2oUZ0igvbwK4J55wUg0/edit?usp=sharing)
+___
+
 ## Licensing
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
