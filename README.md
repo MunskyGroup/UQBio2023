@@ -81,7 +81,9 @@ ___
 | June 2 | NT135 | Stage 2: Statistical Analysis (Instructor: Ania Baetica and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d4pMWf0dxSqQJu5WndVnUu0mL7mtxm5C?usp=sharing) | 
 | June 5 | NT135 | Stage 3: Regression Analysis (Instructor: Zach Fox and Brian Munsky )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kkBvIfMvla0yvtmipWq5gH0pWnsyNPIV?usp=sharing) | 
 | June 7 | NT135 | Stage 4: Models and Stochastic Simulation (Instructor: Michael May, Joshua Cook, and Keisha Cook )| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10LgHcm8HToZGRHF7WESIpD5JKYzJNxk4?usp=sharing) | 
+| June 13 | BSB 107 | Final Predictions and Presentations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZ-z5ybobaoisx1bHdlOEnF47Kv6BBT1?usp=sharing) | 
 ___
+
 
 ## Breaking news
 
